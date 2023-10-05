@@ -1,8 +1,8 @@
-package testes;
+//package testes;
 
-import dominio.Funcionario;
-import dominio.Residencia;
-import telas.telafuncionario;
+import Funcionario;
+import Residencia;
+import telafuncionario;
 
 public class TestaFuncionario {
 
